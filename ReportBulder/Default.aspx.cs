@@ -101,7 +101,6 @@ namespace ReportBulder
                         CurrentBookMarkId++;
                     }
                 }
-
                 mainPart.Document.Save();                                               
             }                                                                                    
         }
